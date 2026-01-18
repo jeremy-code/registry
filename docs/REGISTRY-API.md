@@ -190,7 +190,7 @@ _Note: the values of `quality`, `popularity`, and `maintenance` are normalized i
     }
   ],
   "total": 1,
-  "time": "Wed Jan 25 2017 19:23:35 GMT+0000 (UTC)"
+  "time": "2017-01-25T19:23:35.000Z"
 }
 ```
 
